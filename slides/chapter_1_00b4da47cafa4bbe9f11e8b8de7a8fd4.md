@@ -15,8 +15,10 @@ key: 3823f90d2d
 
 
 `@lower_third`
-Name: Name Surname
-Title: Instructor
+Name:  Name Surname
+Title: Instructorkljklj
+
+`@script`
 
 
 
@@ -30,7 +32,7 @@ key: fae33b9aa0
 ```
 
 `@part1`
-   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Shiba_inu_taiki.jpg/220px-Shiba_inu_taiki.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Shiba_inu_taiki.jpg/220px-Shiba_inu_taiki.jpg)
 
 lkdjsflsd
 
@@ -39,8 +41,6 @@ lkdjsflsd
 
 
 
-
-`@script`
 
 
 
