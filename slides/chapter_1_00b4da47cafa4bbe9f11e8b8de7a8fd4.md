@@ -1,8 +1,8 @@
 ---
-title: Insert title here
+title: 'Insert title here'
 key: 00b4da47cafa4bbe9f11e8b8de7a8fd4
-
 ---
+
 ## Hello
 
 ```yaml
@@ -10,20 +10,15 @@ type: TitleSlide
 key: 3823f90d2d
 ```
 
-
-
-
-
 `@lower_third`
-Name:  Name Surname
-Title: Instructorkljklj
+name: undefined
+title: undefined
 
 `@script`
 
 
-
-
 ---
+
 ## Hello Again
 
 ```yaml
@@ -38,14 +33,11 @@ lkdjsflsd
 
 **lkdjflksdjf**
 
-
-
-
-
-
+`@script`
 
 
 ---
+
 ## Final Slide
 
 ```yaml
@@ -53,10 +45,4 @@ type: FinalSlide
 key: c1dd3e02f5
 ```
 
-
-
-
-
-
-
-
+`@script`
